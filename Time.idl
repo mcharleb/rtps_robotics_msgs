@@ -1,0 +1,5 @@
+struct Time
+{
+long tv_sec;
+long tv_usec;
+};

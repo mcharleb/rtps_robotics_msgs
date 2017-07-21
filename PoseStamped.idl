@@ -1,0 +1,8 @@
+#include "Header.idl"
+#include "Pose.idl"
+
+struct PoseStamped
+{
+Header header;
+Pose pose;
+};

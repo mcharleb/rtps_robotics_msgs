@@ -1,0 +1,4 @@
+Based on http://wiki.ros.org/common_msgs which is BSD licensed
+IDL messages are at: https://github.com/ros/common_msgs
+
+Additional changes are also BSD licensed.

@@ -1,0 +1,7 @@
+#include "Vector3.idl"
+
+struct Twist
+{
+Vector3  linear;
+Vector3  angular;
+};
